@@ -8,3 +8,7 @@ build/
 client/dist/
 coverage/
 *.local
+
+# Generated screenshot artifacts
+screenshots/
+*.zip
