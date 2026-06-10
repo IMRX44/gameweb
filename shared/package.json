@@ -1,0 +1,12 @@
+{
+  "name": "@nebula/shared",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./constants.js": "./constants.js",
+    "./cosmetics.js": "./cosmetics.js"
+  }
+}
